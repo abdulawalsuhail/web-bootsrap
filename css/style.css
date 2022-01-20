@@ -26,3 +26,7 @@ body {
 .color-change {
     color: #363958;
 }
+
+.width-large {
+    width: 100vh;
+}
